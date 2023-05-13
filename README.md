@@ -1,4 +1,8 @@
 # TRMD-Clockroom
-This is a Clockroom Script for Wasabi’s fivem-appearance
+This is Script is createt by TRMD leader Trascher_TV#0001
 
-All infos in the Read.me ^^
+This is a Script for Wasabi’s fivem-appearance!
+
+Plug in play more not.
+
+Have Fun!
